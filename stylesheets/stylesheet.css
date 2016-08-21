@@ -247,3 +247,8 @@ a {
 .post {
     text-align: center;
 }
+
+.place img {
+  width: 100%;
+  height: auto;
+}
